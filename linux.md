@@ -72,4 +72,11 @@
 | `sed`                             | A stream editor for filtering and transforming text.                                                                                                       |
 | `wc`                              | Prints newline, word, and byte counts for a given input.                                                                                                   |
 | `chmod`                           | Changes permission of a file or directory.                                                                                                                 |
-| `chown`                           | Changes the owner and group of a file or directory.                                                                                                        |
+| `chown`                           | Changes the owner and group of a file or directory.                                                                                             |
+
+| CTRL + A | Mueve el cursor al principio de la linea |
+| CTRL + E | Mueve el cursor al final de la linea |
+| ALT + B/F | Salta hacia atras/adelante del principio de la palabra |
+| CTRL + U | Borra la linea entera |
+| [Ctrl] + W | Borrar la palabra que precede a la posición del cursor |
+
